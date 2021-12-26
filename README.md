@@ -15,7 +15,7 @@ This repository contains the code to construct the photomosaic of an image using
 
 ### Usage
 1. `./setup.sh`
-2. `python mosaic.py --infile images/input/uiuc.jpg --outfile images/output/uiuc.png --tol 5 --f 16`
+2. `python mosaic.py --infile images/input/uiuc.jpg --outfile images/output/uiuc.png --tol 5 --f 16` \
 Replace `infile`, `outfile` with your image paths. Tweak `tol` and `f` until you get the desired output.
 
 
